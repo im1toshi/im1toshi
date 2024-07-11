@@ -1,16 +1,15 @@
-## Hi there 👋
+<div class="header" align="center">
+  <h1>Hello, i'm im1toshi! 👋</h1>
 
-<!--
-**im1toshi/im1toshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>A middle pawn developer and Tumple Project Creator.</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and tools:
+<div class="about-me" dir="auto">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
+<img src="https://www.pngrepo.com/png/159311/512/pawn.png" alt="pawn" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="max-width: 100%;">
+<img src="https://www.pngrepo.com/png/452149/180/adobe-photoshop.png" alt="photoshop" width="40" height="40" style="max-width: 100%";>
+</div>
