@@ -15,7 +15,7 @@
 </div>
 
 ###👨‍💻 Working on:
-<div class="working-on" dir="auto">
+<div class="working-on" dir="auto" align="center">
   <div>
     <img src="https://i.ibb.co/8KpFfn9/logo-small-nofill-gradient-white.png", alt="tumple" width="40" height="50" style="max-width: 100%";>
     <p>Tumple Project</p>
