@@ -14,10 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="max-width: 100%;">
 </div>
 
-###👨‍💻 Working on:
-<div class="working-on" dir="auto" align="center">
-  <div>
-    <img src="https://i.ibb.co/8KpFfn9/logo-small-nofill-gradient-white.png", alt="tumple" width="40" height="50" style="max-width: 100%";>
-    <p>Tumple Project</p>
-  </div>
+### 👨‍💻 Working on:
+<div class="working-on" dir="auto">
+  <img src="https://i.ibb.co/8KpFfn9/logo-small-nofill-gradient-white.png", alt="tumple" width="40" height="50" style="max-width: 100%";>
 </div>
