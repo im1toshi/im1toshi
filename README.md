@@ -17,7 +17,7 @@
 ###👨‍💻 Working on:
 <div class="working-on" dir="auto">
   <div>
-    <img src="https://imgur.com/0bfe5290-6b6a-4152-9c11-76237080ce66", alt="tumple" width="50" height="50" style="max-width: 100%";>
+    <img src="https://i.ibb.co/8KpFfn9/logo-small-nofill-gradient-white.png", alt="tumple" width="50" height="50" style="max-width: 100%";>
     <p>Tumple Project</p>
   </div>
 </div>
