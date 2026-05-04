@@ -25,17 +25,17 @@
 </div>
 
 <style>
-.tools-row,
-.working-row {
-  display: flex;
-  justify-content: flex-end;
-  width: 100%;
-  margin: 1rem 0;
-}
+  .tools-row,
+  .working-row {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin: 1rem 0;
+  }
 
-.tools-right,
-.working-right {
-  display: flex;
-  flex-wrap: wrap;           
-}
+  .tools-right,
+  .working-right {
+    display: flex;
+    flex-wrap: wrap;           
+  }
 </style>
