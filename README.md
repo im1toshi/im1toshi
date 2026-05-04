@@ -5,8 +5,8 @@
 </div>
 
 ### 🛠️ Languages and tools:
-<div class="tools-row">
-  <div class="tools-right">
+<div class="tools-row" style="display: flex; justify-content: flex-end; width: 100%; margin: 1rem 0;">
+  <div class="tools-right" style="display: flex; flex-wrap: wrap;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
     <img src="https://www.pngrepo.com/png/452149/180/adobe-photoshop.png" alt="photoshop" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
@@ -17,25 +17,9 @@
 </div>
 
 ### 👨‍💻 Working on:
-<div class="working-row">
-  <div class="working-right">
+<div class="working-row" style="display: flex; justify-content: flex-end; width: 100%; margin: 1rem 0;">
+  <div class="working-right" style="display: flex; flex-wrap: wrap;">
     <img src="https://i.ibb.co/8KpFfn9/logo-small-nofill-gradient-white.png" alt="tumple" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
     <img src="https://i.ibb.co/BVm7BQzP/rmc-logo-github.jpg" alt="restful-launcher" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
   </div>
 </div>
-
-<style>
-  .tools-row,
-  .working-row {
-    display: flex;
-    justify-content: flex-end;
-    width: 100%;
-    margin: 1rem 0;
-  }
-
-  .tools-right,
-  .working-right {
-    display: flex;
-    flex-wrap: wrap;           
-  }
-</style>
