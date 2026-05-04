@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>README Code</title>
-</head>
-<body>
-  <pre style="background:#0d1117;color:#c9d1d9;padding:20px;border-radius:8px;white-space:pre-wrap;font-family:monospace;font-size:14px;line-height:1.6;">
+<pre style="background:#0d1117;color:#c9d1d9;padding:20px;border-radius:8px;white-space:pre-wrap;font-family:monospace;font-size:14px;line-height:1.6;">
 &lt;div align="center"&gt;
   &lt;h1&gt;Hello, i'm im1toshi! 👋&lt;/h1&gt;
   &lt;p&gt;A middle pawn developer and Tumple Project/RESTFUL Project creator.&lt;/p&gt;
@@ -24,6 +17,4 @@
   &lt;img src="https://i.ibb.co/8KpFfn9/logo-small-nofill-gradient-white.png" alt="tumple" width="40" height="50"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;
   &lt;img src="https://i.ibb.co/BVm7BQzP/rmc-logo-github.jpg" alt="restful-launcher" width="40" height="50"&gt;
 &lt;/div&gt;
-  </pre>
-</body>
-</html>
+</pre>
