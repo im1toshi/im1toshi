@@ -1,7 +1,7 @@
 <div class="header" align="center">
   <h1>Hello, i'm im1toshi! 👋</h1>
   
-  <p>A middle pawn developer and Tumple Project / RESTful Project creator.</p>
+  <p>A middle pawn developer and Tumple Project / RESTFUL Project creator.</p>
 </div>
 
 ### 🛠️ Languages and tools:
