@@ -7,12 +7,12 @@
 ### 🛠️ Languages and tools:
 <div class="tools-row" style="display: flex; justify-content: flex-end; width: 100%; margin: 1rem 0;">
   <div class="tools-right" style="display: flex; flex-wrap: wrap;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
-    <img src="https://www.pngrepo.com/png/452149/180/adobe-photoshop.png" alt="photoshop" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
-    <img src="https://www.pngrepo.com/png/159311/512/pawn.png" alt="pawn" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50" style="margin:0 8px; vertical-align:middle;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin:0 10px; vertical-align:middle;">
+    <img src="https://www.pngrepo.com/png/452149/180/adobe-photoshop.png" alt="photoshop" width="50" height="50" style="margin:0 10px; vertical-align:middle;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin:0 10px; vertical-align:middle;">
+    <img src="https://www.pngrepo.com/png/159311/512/pawn.png" alt="pawn" width="50" height="50" style="margin:0 10px; vertical-align:middle;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" style="margin:0 10px; vertical-align:middle;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50" style="margin:0 10px; vertical-align:middle;">
   </div>
 </div>
 
