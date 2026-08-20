@@ -20,6 +20,7 @@
 <div class="working-row" style="display: flex; justify-content: flex-end; width: 100%; margin: 1rem 0;">
   <div class="working-right" style="display: flex; flex-wrap: wrap;">
     <img src="https://i.ibb.co/8KpFfn9/logo-small-nofill-gradient-white.png" alt="tumple" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
-    <img src="https://i.ibb.co/BVm7BQzP/rmc-logo-github.jpg" alt="restful-launcher" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
+    <img src="https://i.ibb.co/mCBzLDjk/logotype.png" alt="restful-launcher" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
+    <img src="https://i.ibb.co/r2PVcFM5/logo.png" alt="restmusic" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
   </div>
 </div>
