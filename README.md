@@ -21,6 +21,6 @@
   <div class="working-right" style="display: flex; flex-wrap: wrap;">
     <img src="https://i.ibb.co/8KpFfn9/logo-small-nofill-gradient-white.png" alt="tumple" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
     <img src="https://i.ibb.co/mCBzLDjk/logotype.png" alt="restful-launcher" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
-    <img src="https://i.ibb.co/r2PVcFM5/logo.png" alt="restmusic" width="60" height="70" style="margin:0 12px; vertical-align:middle;">
+    <img src="https://i.ibb.co/r2PVcFM5/logo.png" alt="restmusic" width="70" height="70" style="margin:0 12px; vertical-align:middle;">
   </div>
 </div>
